@@ -1,0 +1,7 @@
+![30movie_success_decision_tree](https://github.com/user-attachments/assets/8555ac89-29de-4c52-bf9d-a81653f66bbc)
+![90movie_success_decision_tree](https://github.com/user-attachments/assets/83655f26-8e37-455c-8dc0-d1fcb19a082b)
+![270movie_success_decision_tree](https://github.com/user-attachments/assets/1aef30bb-6725-4378-849a-17c1f3ef7918)
+![detailed_metrics_comparison](https://github.com/user-attachments/assets/c9498a50-6e2a-4287-8abb-8458f0ffcf49)
+![time_performance_comparison](https://github.com/user-attachments/assets/9cd66765-b720-4d1f-adf3-d478dfbf80e0)
+![nn_training_history](https://github.com/user-attachments/assets/376b6acc-efa3-45ee-a967-3e1df72b4df7)
+![feature_importance_comparison](https://github.com/user-attachments/assets/4d910ddf-3aec-461d-8163-2e982d1f6d4e)
